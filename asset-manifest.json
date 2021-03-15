@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/henok_m_w21portfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/henok_m_w21portfolio/static/js/main.d72c7fd7.chunk.js",
+    "main.js.map": "/henok_m_w21portfolio/static/js/main.d72c7fd7.chunk.js.map",
+    "runtime-main.js": "/henok_m_w21portfolio/static/js/runtime-main.6b020784.js",
+    "runtime-main.js.map": "/henok_m_w21portfolio/static/js/runtime-main.6b020784.js.map",
+    "static/js/2.41d6efbb.chunk.js": "/henok_m_w21portfolio/static/js/2.41d6efbb.chunk.js",
+    "static/js/2.41d6efbb.chunk.js.map": "/henok_m_w21portfolio/static/js/2.41d6efbb.chunk.js.map",
+    "static/js/3.6881f8fc.chunk.js": "/henok_m_w21portfolio/static/js/3.6881f8fc.chunk.js",
+    "static/js/3.6881f8fc.chunk.js.map": "/henok_m_w21portfolio/static/js/3.6881f8fc.chunk.js.map",
+    "index.html": "/henok_m_w21portfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/henok_m_w21portfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.41d6efbb.chunk.js.LICENSE.txt": "/henok_m_w21portfolio/static/js/2.41d6efbb.chunk.js.LICENSE.txt",
+    "static/media/Bsc certificate.c361a527.png": "/henok_m_w21portfolio/static/media/Bsc certificate.c361a527.png",
+    "static/media/coverLetter.6bdbdaa2.png": "/henok_m_w21portfolio/static/media/coverLetter.6bdbdaa2.png",
+    "static/media/mockup1.e51d46e7.png": "/henok_m_w21portfolio/static/media/mockup1.e51d46e7.png",
+    "static/media/mockup2.02202ae9.png": "/henok_m_w21portfolio/static/media/mockup2.02202ae9.png",
+    "static/media/mockup3.23b7b10d.png": "/henok_m_w21portfolio/static/media/mockup3.23b7b10d.png",
+    "static/media/mockup4.805f5b2a.png": "/henok_m_w21portfolio/static/media/mockup4.805f5b2a.png",
+    "static/media/mockup5.c52ad2df.png": "/henok_m_w21portfolio/static/media/mockup5.c52ad2df.png",
+    "static/media/mockup6.7aba49c1.png": "/henok_m_w21portfolio/static/media/mockup6.7aba49c1.png",
+    "static/media/mockup7.f6ffdd38.png": "/henok_m_w21portfolio/static/media/mockup7.f6ffdd38.png",
+    "static/media/mockup8.b5c88001.png": "/henok_m_w21portfolio/static/media/mockup8.b5c88001.png",
+    "static/media/mypicture.d0cd5345.jpg": "/henok_m_w21portfolio/static/media/mypicture.d0cd5345.jpg",
+    "static/media/react_certificate.a30775f7.png": "/henok_m_w21portfolio/static/media/react_certificate.a30775f7.png",
+    "static/media/resume.9acf6c4d.png": "/henok_m_w21portfolio/static/media/resume.9acf6c4d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b020784.js",
+    "static/js/2.41d6efbb.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d72c7fd7.chunk.js"
+  ]
+}
